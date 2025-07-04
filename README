@@ -1,0 +1,31 @@
+# Travel Blog Website
+
+A simple travel blog website to share travel experiences, photos, and tips.
+
+## Features
+
+- Share travel stories and photos
+- Responsive design
+- Easy to customize
+
+## Getting Started
+
+1. Clone the repository:
+    ```
+    git clone https://github.com/yourusername/travel-blog-website.git
+    ```
+2. Open the project folder:
+    ```
+    cd travel-blog-website
+    ```
+3. Open `index.html` in your browser to view the site.
+
+## Technologies Used
+
+- HTML
+- CSS
+- JavaScript
+
+## License
+
+This project is licensed under the MIT License.
